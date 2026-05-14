@@ -4,6 +4,11 @@
 
 ---
 
+### 📦 com.termux_1022.apk
+
+📥 [دانلود فایل زیپ شده (ZIP)](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/archived_66.zip)
+
+---
 ### 📦 لینک‌ها و فایلهای موردنیاز برای ساخت کانفیگ: (همه داخل فایل فشرده شده قرار داره) . - پروژه اصلی در گیتهاب: https://github.com/masterking32  - لینک دانلود پایتون از soft98: https://soft98.ir/software/programming/16260-python.html  - لینگ گوگل اسکریپت: https://script.google.com/home . همچنین اگر برای دانلود فایل اینجا مشکل داشتید؛ میتونید با نت معمولی از بله دانلودش کنید👇 https://ble.ir/samiotech . . . .  💠 @samiotech | تازه‌های تکنولوژی و هوش‌مصنوعی
 
 📥 [دانلود فایل زیپ شده (ZIP)](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/archived_65.zip)
