@@ -4,6 +4,11 @@
 
 ---
 
+### 📦 🛜**آپدیت جدید کلاینت شیر و خورشید**  https://uplod.ir/ocwy4zjzui3c/ShirOKhorshid-2026.05.14.zip.htm  **پروتکل رو روی یکی از حالت های auto یا direct یا CDN Fronting تنظیم کنید کلاینت شیر و خورشید به تنهایی وصل خواهد شد**  ✅ @ProxyMTProtoIR
+
+📥 [دانلود فایل زیپ شده (ZIP)](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/archived_67.zip)
+
+---
 ### 📦 com.termux_1022.apk
 
 📥 [دانلود فایل زیپ شده (ZIP)](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/archived_66.zip)
