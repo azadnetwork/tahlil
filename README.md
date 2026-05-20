@@ -1,3 +1,11 @@
 # 🎙️ آرشیو جامع (نسخه هوشمند)
 
-> آرشیو خالی است. منتظر ارسال فایل‌های جدید...
+> این صفحه خودکار آپدیت می‌شود.
+
+---
+
+### 📦 sni
+
+📥 [دانلود فایل زیپ شده (ZIP)](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/archived_69.zip)
+
+---
